@@ -1,0 +1,4 @@
+namespace: pr-3
+image:
+  repository: ghcr.io/bl4ckj4c/challenge-app
+  tag: 6275b726c21a4d0f8d3ec12c8fa7db5eeca1160a
