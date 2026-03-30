@@ -1,0 +1,6 @@
+namespace: pr-11
+deploymentName: challenge-app-pr-11
+serviceName: challenge-app-pr-11
+image:
+  repository: ghcr.io/bl4ckj4c/challenge-app
+  tag: 383690786bbe28cfe0c75e1b8980c3796fccae39
